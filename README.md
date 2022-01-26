@@ -2,4 +2,4 @@
 Creates a folder hirarchy template for a project.
 
 Run by:
-cookiecutter gh:stebick/cookiecutter-project
+cookiecutter gh:ieeg/cookiecutter-project
